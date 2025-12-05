@@ -41,3 +41,9 @@ I watched another [NeetCode video](https://www.youtube.com/watch?v=pV2kpPD66nE),
 The Breadth-First Search algorithm was also useful. I've heard of it before, but wasn't comfortable implementing it. With some peeking, I was able to apply it to both parts and only had to introduce a couple different trackers in part 2.
 
 I'm very proud of this one!
+
+### Day 5
+
+In the first part, I tried to be smart about it, thinking I should use a `set` to skip overlapping numbers and double-counting. When I got stuck I watched this [NeetCode video about intervals](https://www.youtube.com/watch?v=44H3cEC2fFM). I thought too long about trying to apply the intervals solution to this part of the problem, when it wasn't really needed. Finally, I realized that I didn't have to go through each number of the ranges, and instead could just check that the current element is between the two numbers. I was also really tripped up by two pieces of information in the input. In my attempt to traverse all numbers in all ranges, it led to a MemoryError! lol!
+
+In the second part, I realized that this is where I could use the merge interval algorithm I learned from the video. And it worked! This is another one that I'm very proud of!
