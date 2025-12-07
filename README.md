@@ -47,3 +47,21 @@ I'm very proud of this one!
 In the first part, I tried to be smart about it, thinking I should use a `set` to skip overlapping numbers and double-counting. When I got stuck I watched this [NeetCode video about intervals](https://www.youtube.com/watch?v=44H3cEC2fFM). I thought too long about trying to apply the intervals solution to this part of the problem, when it wasn't really needed. Finally, I realized that I didn't have to go through each number of the ranges, and instead could just check that the current element is between the two numbers. I was also really tripped up by two pieces of information in the input. In my attempt to traverse all numbers in all ranges, it led to a MemoryError! lol!
 
 In the second part, I realized that this is where I could use the merge interval algorithm I learned from the video. And it worked! This is another one that I'm very proud of!
+
+### Day 6
+
+Day 6 was rough... I definitely feel all those memes where an easy part 1 makes you feel great, and then you get humbled by part 2.
+
+![Luke & Leia 4-panel "Right?" meme. Luke: Day 6 Part 1 You don't need to worry about alignment. Leia: Really? Luke: Day 6 Part 2](https://i.redd.it/8c3yzy9gsp5g1.jpeg)
+
+> From Reddit: https://www.reddit.com/r/adventofcode/comments/1pg9ywj/2025_day_6_sigh/
+
+Anyway. The major takeaways are:
+
+- math.prod exists
+- zip exists
+- seeing the input as a grid and transposing it is a big brain move\*
+
+\*= I swear I was almost there and yet...
+
+On to the next!
