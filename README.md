@@ -65,3 +65,11 @@ Anyway. The major takeaways are:
 \*= I swear I was almost there and yet...
 
 On to the next!
+
+### Day 7
+
+Another day, another problem overthought. I spent a long time trying to understand the problem (almost 5 pages of notes!). And wrote and re-wrote a solution many times. Until I finally realized I could turn the input into a grid and traverse it that way. 
+
+I did look up some visualizations for part 2 because every time I tried to do it by hand I would get lost and restart...
+
+All in all this was a really cool one to solve! I'm a day behind now so hopefully I can catch back up!
