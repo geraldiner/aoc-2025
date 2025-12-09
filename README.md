@@ -73,3 +73,12 @@ Another day, another problem overthought. I spent a long time trying to understa
 I did look up some visualizations for part 2 because every time I tried to do it by hand I would get lost and restart...
 
 All in all this was a really cool one to solve! I'm a day behind now so hopefully I can catch back up!
+
+### Day 8
+Still behind, but (un)fortunately, thinking about these problems is starting to keep me awake at night. And that means trying to write solutions on my phone. 🥲
+
+I'm a little bummed because I'd gotten halfway through the problem with I thought was the way to go (it was), but talked myself out of it because I didn't believe it. Hopefully, in the remaining days, I'll see my ideas through (even if it means failure), before throwing in the towel and looking up hints/solutions.
+
+Nevertheless, some new things I was exposed to:
+- Disjointed sets
+- You can set an `else` on a `for` loop to execute if it never previously hit a `break`
